@@ -31,22 +31,22 @@
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```yaml
-name: DevDundi
+name: Venkat Reddy
 located_in: India 🇮🇳
-current_role: Full Stack Developer
+current_role: Full Stack Developer + Web Automation Engineer
 education: Computer Science
 
 fields_of_interest:
   - Web Development
   - Test Automation
-  - Cloud Architecture
+  - Web Security Audit
   - UI/UX Design
 
 currently_learning:
   - React + TypeScript
   - Python (FastAPI)
   - Playwright Automation
-  - Cloudflare Workers
+  - Security Audit and penetration testing
 
 hobbies:
   - Coding 💻
@@ -60,9 +60,9 @@ hobbies:
 - 🔭 I'm currently working on **Real-World Client Projects**
 - 🌱 I'm learning **React, Python, Playwright & Cloud Architecture**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, JavaScript, TypeScript, Python, Playwright**
-- ⚡ Fun fact: **I debug in my dreams 😄**
-- 📫 Reach me at: **devdundi@gmail.com**
+- 💬 Ask me about **React, JavaScript, Python, Playwright**
+- ⚡ Fun fact: **I debug in my dreams and see results in reality 😄**
+- 📫 Reach me at: **23kq5a0514cse@gmail.com**
 
 <br>
 
