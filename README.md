@@ -5,7 +5,7 @@
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
   <a href="https://github.com/dundi">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+React+%7C+Python+%7C+Playwright;%F0%9F%94%A5+Turning+Coffee+into+Code+Since+2024;%F0%9F%8C%90+Building+Scalable+Web+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+React+%7C+Python+%7C+Playwright+%7C;%F0%9F%94%A5+Turning+Coffee+into+Code+Since+2024;%F0%9F%8C%90+Building+Scalable+Web+Applications" alt="Typing SVG" />
   </a>
 </p>
 
