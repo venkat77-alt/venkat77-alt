@@ -1,6 +1,6 @@
 <!-- ===== ANIMATED HEADER ===== -->
 <!-- ===== ANIMATED HEADER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=220&section=header&text=DevDundi&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20future%2C%20one%20commit%20at%20a%20time&descSize=18&descColor=ffffff&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=220&section=header&text=text=Venkat%20Reddy&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20future%2C%20one%20commit%20at%20a%20time&descSize=18&descColor=ffffff&descAlignY=55" />
 
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
